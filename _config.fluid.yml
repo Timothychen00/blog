@@ -183,7 +183,7 @@ iconfont: //at.alicdn.com/t/font_1736178_lbnruvf0jn.css
 
 # 导航栏的相关配置
 navbar:
-  blog_title: "TimothyChen00"
+  blog_title: "TimothyChen"
   ground_glass:
     enable: false
     # 模糊像素，只能为数字，数字越大模糊度越高
