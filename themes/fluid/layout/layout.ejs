@@ -5,9 +5,8 @@ var colorSchema = theme.dark_mode && theme.dark_mode.enable && theme.dark_mode.d
 
 <!DOCTYPE html>
 <html lang="<%= config.language %>" <%= colorSchema ? `data-default-color-scheme=${colorSchema}` : '' %>>
+
 <%- partial('_partials/head.ejs') %>
-
-
 
 <body>
   <%- inject_point('bodyBegin') %>
