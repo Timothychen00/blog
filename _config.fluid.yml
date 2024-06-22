@@ -248,9 +248,7 @@ open_graph:
 footer:
   # 页脚第一行文字的 HTML，建议保留 Fluid 的链接，用于向更多人推广本主题
   content: '
-    <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
-    <i class="iconfont icon-love"></i>
-    <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>'
+    <a href="#" target="_self" rel="nofollow noopener"><span>Timothychen（陳澤榮） 2024</span></a>'
 
   # 展示网站的 PV、UV 统计数
   statistics:
